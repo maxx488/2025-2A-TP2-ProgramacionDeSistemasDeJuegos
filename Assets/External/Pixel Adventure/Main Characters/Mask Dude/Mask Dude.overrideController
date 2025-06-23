@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mask Dude
+  m_Controller: {fileID: 9100000, guid: 19f65072c331a954aaa1eca245305edd, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 14ab918cfedac7346b737151b66837f6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e34fac34434a39842823d56b05688598, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0233d29481d505e4990b8cf0c49be5e0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 61fe7387bb25d274ba32e2099b2e5aab, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e8e0f56380edf6c4fb081604b0dd2bff, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bdaf4732b975487449c8f19d5f0cadfa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a460dd14a0f98be419ee67375146bada, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 56aa846d9c9944947b9596238fce9c66, type: 2}
