@@ -72,4 +72,5 @@ crashlytics-build.properties
 # Visual Studio cache directory
 .vs/
 .idea/
+.vsconfig
 
